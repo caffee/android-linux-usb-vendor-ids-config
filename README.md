@@ -10,7 +10,7 @@ Installation
 ------------
 1. Copy `51-android.rules` file to `/etc/udev/rules.d/`  
 2. Edit `51-android.rules` file to enable each vendor  
-3. Make execute `chmod 4444 /etc/udev/rules.d/51-android.rules`  
+3. Make execute `chmod 444 /etc/udev/rules.d/51-android.rules`  
 
 Reference: [__Android.com - Setting up a device for development__](http://developer.android.com/tools/device.html#setting-up)  
 
