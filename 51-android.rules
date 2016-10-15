@@ -77,6 +77,8 @@
 # SUBSYSTEM=="usb", ATTR{idVendor}=="2340", MODE="0666", GROUP="plugdev"
 # TOSHIBA
 # SUBSYSTEM=="usb", ATTR{idVendor}=="0930", MODE="0666", GROUP="plugdev"
+# TP-LINK
+# SUBSYSTEM=="usb", ATTR{idVendor}=="2357", MODE="0666", GROUP="plugdev"
 # XIAOMI
 # SUBSYSTEM=="usb", ATTR{idVendor}=="2717", MODE="0666", GROUP="plugdev"
 # ZTE
